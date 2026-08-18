@@ -93,7 +93,7 @@ The dashboard allows users to:
 
 ## Dashboard Preview
 
-Dashboard screenshot will be added here.
+![European Retail Sales & Profitability Dashboard](European_Retail_Sales_Dashboard.png)
 
 ## Author
 
